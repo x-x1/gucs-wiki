@@ -55,7 +55,7 @@ cp -rp /root/node /root/nodeback
 
 3. 获取安装包
 
-安装包暂随文档一并提供，不支持网络下载，请从压缩包中获取。
+[点击下载](https://github.com/x-x1/gucs-wiki/releases/download/v1.1.0/gucs)
 
 4. 更换 `gucs` 程序
 
